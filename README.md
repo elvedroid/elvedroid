@@ -29,8 +29,6 @@ I like to keep up with the newest libraries and trends in Android World, and I a
 [![Elvedin Selimoski stackoverflow](https://skills.thijs.gg/icons?i=stackoverflow)](https://stackoverflow.com/users/8906488/elvedin-selimoski)
 [![Elvedin Selimoski linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/elvedin-selimoski-681921124/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvedroid&show_icons=true&theme=radical)](https://github.com/elvedroid)
-
 [![Elvedin Selimoski](https://github-readme-stackoverflow.vercel.app/?userID=8906488&layout=compact&theme=dark)](https://stackoverflow.com/users/8906488/elvedin-selimoski)
 
 <!--
